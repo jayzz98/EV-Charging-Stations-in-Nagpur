@@ -10,11 +10,13 @@ The dashboard is designed to help EV users quickly identify charging stations, u
 
 ### Station Overview & Map
 
-![EV Charging Stations in Nagpur](assets/ev-charging-dashboard-1.png)
+<img width="1055" height="679" alt="Screenshot 2026-10-08 112503" src="https://github.com/user-attachments/assets/59450991-bdba-4f29-b306-73a9526b871e" />
+
 
 ### Station Details
 
-![EV Charging Station Details](assets/ev-charging-dashboard-2.png)
+<img width="1056" height="682" alt="Screenshot 2026-10-08 112705" src="https://github.com/user-attachments/assets/50638a38-7ddf-45a9-be1f-87bd7dcca36c" />
+
 
 > **Note:** Add the two dashboard screenshots to an `assets` folder using the filenames shown above.
 
